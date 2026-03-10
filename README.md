@@ -63,7 +63,7 @@ Visual filtering
 
 Dynamic charts
 
-🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 
 Power BI
 
@@ -75,7 +75,7 @@ Bookmarks & Buttons for visual switching
 
 Conditional Formatting
 
-📌 Key Concepts Used
+# 📌 Key Concepts Used
 
 Dynamic KPI switching using Bookmarks
 
@@ -87,7 +87,7 @@ Distinct order counting for accurate metrics
 
 Interactive visual design for decision making
 
-🚀 Insights Provided
+# 🚀 Insights Provided
 
 This dashboard helps answer important business questions such as:
 
