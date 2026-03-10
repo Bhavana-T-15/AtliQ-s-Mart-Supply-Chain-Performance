@@ -98,3 +98,6 @@ Which customers have lower fulfillment performance?
 How many orders are delayed and by how many days?
 
 Is delivery performance improving over time?
+
+<img width="1544" height="934" alt="image" src="https://github.com/user-attachments/assets/2a3c7590-c73f-4c89-9f3d-559929efd389" />
+
